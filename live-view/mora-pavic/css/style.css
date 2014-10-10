@@ -1,0 +1,153 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+h1 { 	font-family: 'Arimo', sans-serif;
+		font-weight:bold;
+		font-size:22px;
+		color:#6dbf43;
+		text-align:center;
+	}
+	
+h1.gracias	{ 	font-family: 'Arimo', sans-serif;
+		font-weight:bold;
+		font-size:22px;
+		color:#fff;
+		text-align:center;
+	}
+	
+
+h2 { 	font-family: 'Arimo', sans-serif;
+		font-weight:bold;
+		font-size:15px;
+		color:#fff;
+		text-align:center;
+	}	
+	
+p {
+		font-family: 'Arimo', sans-serif;
+		font-size:16px;
+		color:#ccffff;
+		text-align:center;
+		line-height:17px;
+	}
+
+
+::-webkit-input-placeholder { color:#bdbdbd; }
+::-moz-placeholder { color:#bdbdbd; } /* firefox 19+ */
+input:-moz-placeholder { color:#bdbdbd; } 
+
+
+	
+.textform {
+		font-family: 'Arimo', sans-serif;
+		font-size:14px;
+		color:#fff;
+		text-align:left;
+		line-height:17px;
+	}
+
+#contenedor {
+	 width:362px; 
+	 height:850px;
+	 background-image:url(../img/bg-azul.png);
+	 float:right;
+	 margin-right:120px;
+	 margin-top:0;
+	}
+	
+#titulo {
+	 height:60px;
+	 background-color:#FFF;
+	 padding-top:10px;
+	}
+	
+.logo {
+	height:127px;
+	text-align:center;
+	
+	}
+	
+.bajada {
+	height:85px;
+	text-align:center;
+	}
+	
+.contenedorform {
+	height:438px;
+	padding-left:40px;
+	padding-top:10px;
+	}
+	
+		
+.contenedorform  ul 
+	{
+	width:280px;
+	}
+	
+	.contenedorform  ul  li
+	{
+		margin-top:10px;
+	}
+	 
+.imput {
+	width:280px;
+	-webkit-border-radius: 5px;
+    border-radius: 5px;
+	background-color:#FFF;
+	border:none;
+	height:28px;
+	-webkit-box-shadow: inset 0px 1px 3px 0px #999999;
+    box-shadow: inset 0px 1px 3px 0px #999999;
+	padding-left:10px;
+	}
+	
+	
+
+.select {
+	width:280px;
+	-webkit-border-radius: 5px;
+    border-radius: 5px;
+	background-color:#FFF;
+	border:none;
+	height:28px;
+	color:#bdbdbd;
+	-webkit-box-shadow: inset 0px 1px 3px 0px #999999;
+    box-shadow: inset 0px 1px 3px 0px #999999;
+	padding-left:10px;
+	padding-top:5px;
+	}	
+	
+	
+.select option{color:#000;}
+	
+.captcha {height:107px; text-align:center; padding-top:10px;}
+	
+.imput-envio {
+	width:199px;
+	-webkit-border-radius: 5px;
+    border-radius: 5px;
+	background-color:#FFF;
+	border:none;
+	height:28px;
+	-webkit-box-shadow: inset 0px 1px 3px 0px #999999;
+    box-shadow: inset 0px 1px 3px 0px #999999;
+	padding-left:10px;
+	}
+
+.boton{ width:55px; height:30px; background-color:#39b54a; border:solid 1px #56c3c7;
+text-align:center; 	-webkit-border-radius: 3px; border-radius: 3px; margin-left:15px; color:#FFF; font-family: 'Arimo', sans-serif; font-size:13px; cursor:pointer; }
+		
+.boton:hover{ width:55px; height:30px; background-color:#36ae46; border:solid 1px #56c3c7;
+text-align:center; 	-webkit-border-radius: 3px;
+    border-radius: 3px; margin-left:15px; color:#FFF; font-family: 'Arimo', sans-serif;
+		font-size:13px; cursor:pointer;  }
+		
+.badges{ width:442px; height:121px; background-image:url(../img/badges-all.png); margin-left:-100px; margin-top:-5px;}
+
+
+
+.gracias {
+	margin-top:350px;
+	text-align:center;
+	}

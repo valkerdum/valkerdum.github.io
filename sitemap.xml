@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" 
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+  <url> 
+  <loc>http://valker.cl/</loc>
+  <lastmod>2013-09-10T03:18:19+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://valker.cl/index.html</loc>
+  <lastmod>2013-09-10T03:18:19+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://valker.cl/nosotros.html</loc>
+  <lastmod>2013-09-10T03:18:19+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://valker.cl/portafolio.html</loc>
+  <lastmod>2013-09-10T03:18:21+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://valker.cl/contacto.html</loc>
+  <lastmod>2013-09-10T03:18:17+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://valker.cl/portafolio-minsal.html</loc>
+  <lastmod>2013-09-10T03:18:14+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://valker.cl/portafolio-banco-chile.html</loc>
+  <lastmod>2013-09-10T03:18:22+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://valker.cl/portafolio-suzuki-nieve.html</loc>
+  <lastmod>2013-09-10T03:18:16+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://valker.cl/portafolio-drivetech.html</loc>
+  <lastmod>2013-09-10T03:18:12+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://valker.cl/portafolio-conection.html</loc>
+  <lastmod>2013-09-10T03:18:24+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://valker.cl/portafolio-docente.html</loc>
+  <lastmod>2013-09-10T03:18:13+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://valker.cl/portafolio-bata-salva.html</loc>
+  <lastmod>2013-09-10T03:18:23+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://valker.cl/live-view/entel-manual-telefonos/index.html</loc>
+  <lastmod>2013-09-06T16:19:42+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://valker.cl/live-view/banco-chile-telefonos/index.html</loc>
+  <lastmod>2013-09-06T16:19:31+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://valker.cl/live-view/drivetech-empresas-logeado/inicio_sistema.html</loc>
+  <lastmod>2013-09-06T16:19:34+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://valker.cl/live-view/drivetech-Personas/index.html</loc>
+  <lastmod>2013-09-06T16:19:34+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://valker.cl/live-view/drivetech-Sitio-corporativo/productos.html</loc>
+  <lastmod>2013-09-06T16:19:37+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://valker.cl/portafolio-mora-pavic.html</loc>
+  <lastmod>2013-09-10T03:18:15+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://valker.cl/live-view/entel-manual-telefonos/3905.html</loc>
+  <lastmod>2013-09-06T16:19:37+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://valker.cl/live-view/entel-manual-telefonos/6941.html</loc>
+  <lastmod>2013-09-06T16:19:40+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://valker.cl/live-view/entel-manual-telefonos/9951.html</loc>
+  <lastmod>2013-09-06T16:19:39+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://valker.cl/live-view/entel-manual-telefonos/pizarra.html</loc>
+  <lastmod>2013-09-06T16:19:43+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://valker.cl/live-view/entel-manual-telefonos/video.html</loc>
+  <lastmod>2013-09-06T16:19:44+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://valker.cl/live-view/entel-manual-telefonos/correos.html</loc>
+  <lastmod>2013-09-06T16:19:41+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://valker.cl/live-view/banco-chile-telefonos/interior-uno.html</loc>
+  <lastmod>2013-09-06T16:19:31+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://valker.cl/live-view/mora-pavic/index.html</loc>
+  <lastmod>2013-09-06T16:19:46+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+</urlset>

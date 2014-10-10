@@ -1,0 +1,165 @@
+
+body {
+	background-color: #1b2138;
+	overflow-x:hidden;
+	font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+h1 {
+	font-size: 60px;
+}
+
+.lead {
+	margin-bottom: 0!important;
+}
+
+.container {
+	background-color: #fff!important;
+	margin-top: 10px;
+	-webkit-border-radius: 4px;
+    border-radius: 4px;
+}
+
+.whitespace_all {
+	margin: 10px;
+}
+
+.whitespace {
+	margin-top: 15px;
+}
+
+.whitespace_h {
+	margin: 0 15px;
+}
+
+.eblue {
+	color: #056ba1;
+}
+
+.orange {
+	color: #f37c21;
+}
+
+.blanco {
+	color: #fff;
+}
+
+.grey {
+	color: #313131;
+}
+
+.no-link {
+	color: #333333;
+}
+.aste {
+	background-image: url('../img/aste.png');
+	background-repeat: no-repeat;
+	height: 179px!important;
+}
+
+.aste > h1 {
+	padding-top: 40px;
+}
+
+.cont_phone {
+	width: 290px;
+	height: 155px;
+	background-color: #e3e2e2;
+	-webkit-border-radius: 0px 0px 25px 0px;
+    border-radius: 0px 0px 25px 0px;
+    margin: 0 auto!important;
+}
+
+.cont_phone_text {
+	padding-right: 8px;
+	padding-top: 8px;
+	padding-left: 8px;
+}
+
+@media (max-width: 767px) {
+	.phone_tablet {
+		width: 100%!important;
+	}
+
+	.cont_phone {
+	width: 100%;
+	height: 265px;
+	background-color: #e3e2e2;
+	-webkit-border-radius: 0px 0px 25px 0px;
+    border-radius: 0px 0px 25px 0px;
+    margin: 0 auto!important;
+	}
+
+	h1 {
+	font-size: 40px!important;
+}
+}
+
+@media (min-width: 768px) and (max-width: 979px) { 
+	.phone_tablet {
+	
+	}
+
+	.cont_phone {
+	width: 210px;
+	height: 265px;
+	background-color: #e3e2e2;
+	-webkit-border-radius: 0px 0px 25px 0px;
+    border-radius: 0px 0px 25px 0px;
+    margin: 0 auto!important;
+	}
+	
+}
+
+
+.first_big, .segundo_big, .tercer_big {
+
+	width: 94%;
+	margin: 0 auto;
+	border-radius: 0px 0px 15px 0px;
+    margin: 0 auto!important;
+    min-height: 50px;	
+    background-image: url('../img/bg-banner-one.png');
+	background-repeat: no-repeat;
+	background-position: right;
+}
+
+.first_big {
+	background-color: #0e83c1;
+
+}
+
+.segundo_big {
+	background-color: #075a86;
+}
+
+.tercer_big {
+	background-color: #0b3850;
+}
+
+.first_big > h4, .segundo_big >h4, .tercer_big > h4 {
+	padding-top: 1%;
+}
+
+.cierre {
+	font-size: 74px;
+}
+
+.cont_list_vid {
+	background-color: #eeeeee;
+	padding-left: 8px;
+	background-image: url('../img/cierre_vids.png');
+	background-position: right;
+	background-repeat: no-repeat;
+}
+
+.wrap_vid {
+	margin-left: 8px;
+	margin-right: 8px;
+
+}
+
+.titulo_cap {
+	margin-left: 5%;
+}
