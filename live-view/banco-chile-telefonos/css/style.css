@@ -1,0 +1,160 @@
+body {
+	background-color: #0d152c;
+}
+
+.navbar-inner:before, .navbar-inner:after > .container {
+	background-color: transparent!important;
+}
+
+p { 
+	margin: 0!important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 10px 0 0 0!important;
+}
+
+.navbar-inverse .navbar-inner {
+	background-image: none!important;
+	background-color: #031551!important;
+	background-repeat: repeat;
+	border-bottom: solid 4px #333333;
+}
+
+.navbar-inverse .nav .active > a, .navbar-inverse .nav .active > a:hover, .navbar-inverse .nav .active > a:focus {
+	background-color: #020d34!important;
+}
+
+.navbar-fixed-top {
+	margin-bottom: 0!important;
+}
+
+.navbar-fixed-top, .navbar-fixed-bottom {
+	position: relative;
+}
+
+.whitespace_all {
+	margin: 10px;
+}
+
+.whitespace {
+	margin-top: 15px;
+}
+
+.whitespace_h {
+	margin: 0 15px;
+}
+
+.cuadro-dos {
+ 	background-image: url("../img/cuadro-dos.jpg");
+    background-repeat: no-repeat;
+    height: 207px;
+    padding-top: 40px;
+    width: 373px;
+    margin: 20px auto;
+}
+
+
+
+.cuadro-one {
+ 	background-image: url("../img/cuadro-one-bg.jpg");
+    background-repeat: no-repeat;
+    height: 207px;
+    padding-top: 40px;
+    width: 373px;
+    margin: 20px auto;
+}
+
+.cuadro-dos a , .cuadro-one a  {
+	color: #fff!important;
+	text-decoration: none!important;
+}
+
+
+@media (max-width: 480px) { 
+
+.cuadro-dos {
+ 	background-image: url("../img/cuadro-dos.jpg");
+    background-repeat: no-repeat;
+    height: 207px;
+    padding-top: 40px;
+    width: 213px;
+    margin: 20px auto;
+}
+
+.cuadro-one {
+ 	background-image: url("../img/cuadro-one-bg.jpg");
+    background-repeat: no-repeat;
+    height: 207px;
+    padding-top: 40px;
+    width: 213px;
+    margin: 20px auto;
+}
+
+
+
+}
+
+
+@media (min-width: 768px) and (max-width: 979px) { 
+	.cuadro-dos {
+ 	background-image: url("../img/cuadro-dos.jpg");
+    background-repeat: no-repeat;
+    height: 207px;
+    padding-top: 40px;
+    width: 273px;
+    margin: 20px auto;
+}
+
+.cuadro-one {
+ 	background-image: url("../img/cuadro-one-bg.jpg");
+    background-repeat: no-repeat;
+    height: 207px;
+    padding-top: 40px;
+    width: 273px;
+    margin: 20px auto;
+}
+
+.futer { text-align: center;}
+
+}
+
+.blanco {
+	color: #fff;
+}
+
+.boton {
+	width: 119px;
+	height: 39px;
+	background-image: url('../img/btn-1.png');
+	background-repeat: no-repeat;
+	margin: 19px auto;
+	cursor: pointer;
+	padding-top: 5px;
+}
+
+.boton > a >h4 {
+	margin: 0!important;
+}
+
+.boton:hover {
+	background-image: url('../img/btn-1-hover.png');
+}
+
+.raya {
+	height: 4px;
+	background-color: #333333;
+	background-repeat: repeat;
+}
+
+.bg-white {
+	background-color: #FFF;
+}
+
+.futer {
+	margin-top: 40px;
+	background-color: #dddddd!important;
+	text-align: right;
+	font-size: 12px!important;
+	margin-right: 5px;
+}
